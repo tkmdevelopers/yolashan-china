@@ -30,7 +30,7 @@ client/*.pem
 
 # local env files
 client/.env*.local
-clieet/.env*
+clieet/.env
 # typescript
 client/*.tsbuildinfo
 
