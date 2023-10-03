@@ -2,7 +2,7 @@
 
 # dependencies
 client/node_modules/
-
+f/
 # Expo
 client/.expo/
 client/dist/
